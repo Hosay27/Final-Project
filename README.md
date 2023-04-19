@@ -1,4 +1,4 @@
-# Invert-Breaker
+# Gravity Man
 MSCH-C220 Game Jam, April 2023
 
 ## Theme
